@@ -114,3 +114,17 @@ body {
     margin-top: 40px;
 }
 
+.selos-habilidades {
+    margin-top: 25px;
+    width: 600px;
+    margin-left: 15%;
+}
+
+.selo {
+    line-height: 50px;
+    background-color: blue;
+    border-radius: 20px 20px;
+    border: 2px solid red;
+    padding: 5px 15px;
+    color: white;
+}
