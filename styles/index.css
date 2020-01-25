@@ -5,7 +5,7 @@
 
 .informacoes {
     margin-left: 100px;
-    margin-top: 10px;
+    margin-top: 55px;
 }
 
 .informacoes-box {
@@ -127,4 +127,10 @@ body {
     border: 2px solid red;
     padding: 5px 15px;
     color: white;
+}
+
+.contato-box {
+    display: flex;
+    justify-content: center;
+    margin-left: -125px;
 }
