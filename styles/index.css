@@ -5,7 +5,7 @@
 
 .informacoes {
     margin-left: 100px;
-    margin-top: 55px;
+    margin-top: 22px;
 }
 
 .informacoes-box {
@@ -133,4 +133,46 @@ body {
     display: flex;
     justify-content: center;
     margin-left: -125px;
+}
+
+.empresas {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.empresas-dados {
+    display: flex;
+    font-size: 20px;
+    color: #FFD700;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 22px;
+}
+
+.experiencias-box{
+    margin-top: 20px;
+}
+.experiencias-box h1{
+    display: flex;
+    justify-content: center; 
+    margin-left: -125px;
+}
+
+.campo-experiencia {
+    display: flex;
+    flex-direction: row;
+}
+
+.realizado-empresas {
+    margin-left: 10%;
+    margin-top: 15px;
+    border-left: 2px solid tomato;
+    padding-left: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.realizado-empresas span {
+    margin-top: 10px;
 }
